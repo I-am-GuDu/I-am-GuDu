@@ -1,6 +1,6 @@
 ## Hi there, I'm Kamalakshya(Gudu)! 👋
 
-![Profile Banner](https://raw.githubusercontent.com/gudu75531/gudu75531/main/Pp.webp)
+![Profile Banner](https://raw.githubusercontent.com/I-am-GuDu/I-am-GuDu/main/Pp.webp)
 
 
 ### 🚀 About Me:
