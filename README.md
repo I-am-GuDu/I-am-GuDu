@@ -6,7 +6,7 @@
 ### 🚀 About Me:
 
 - 🎓 MCA Student | Aspiring Software Developer  
-- 💻 Learning Python(Proficient), Java and C#  
+- 💻 Learning Python, Django, REST APIs, MySQL
 - 🎮 Gamer | Love playing GTA 5, RDR2, and Grand RP Roleplay  
 - 💡 Interested in AI, Web Development, and Competitive Programming  
 - 📈 Goal: Become a Billionaire & Build a Tech Empire  
